@@ -45,7 +45,7 @@ image[certbot]="certbot/certbot:v2.6.0"
 image[haproxy]="haproxy:2.8.0"
 
 defaults[transport]=tcp
-defaults[domain]=www.google.com
+defaults[domain]=music.apple.com
 defaults[port]=443
 defaults[safenet]=OFF
 defaults[natvps]=OFF
